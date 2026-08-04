@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "First Item", "note": "Loaded from a JSON file, not typed into app.js." },
+  { "id": 2, "title": "Second Item", "note": "No HTML file exists for this page." },
+  { "id": 3, "title": "Third Item", "note": "This list is built with .map()." }
+]
