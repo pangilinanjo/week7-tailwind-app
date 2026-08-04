@@ -70,7 +70,7 @@ app.use((req, res) => {
       <body class="min-h-screen flex items-center justify-center bg-gray-100">
         <div class="text-center">
           <h1 class="text-4xl font-bold text-red-700">404</h1>
-          <p class="mt-2 text-gray-600">That page doesn't exist.</p>
+          <p class="mt-2 text-gray-600">That page does not exist.</p>
           <a href="/gallery" class="mt-4 inline-block text-blue-600 underline">
             Back to the gallery
           </a>
